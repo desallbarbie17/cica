@@ -22,17 +22,17 @@ You are currently viewing your project's **README** file. **_README_** files are
 
 ## Rename this repository to publish your site
 
-We've already set-up a GitHub Pages website for you, based on your personal username. This repository is called `hello-world`, but you'll rename it to: `username.github.io`, to match your website's URL address. If the first part of the repository doesn’t exactly match your username, it won’t work, so make sure to get it right.
+We've already set-up a GitHub Pages website for you, based on your personal username. This repository is called `hello-world`, but you'll rename it to: `desallbarbie17.github.io`, to match your website's URL address. If the first part of the repository doesn’t exactly match your username, it won’t work, so make sure to get it right.
 
 Let's get started! To update this repository’s name, click the `Settings` tab on this page. This will take you to your repository’s settings page. 
 
-![repo-settings-image](https://user-images.githubusercontent.com/18093541/63130482-99e6ad80-bf88-11e9-99a1-d3cf1660b47e.png)
+![repo-settings-image](https://desallbarbie17-images.githubusercontent.com/18093541/63130482-99e6ad80-bf88-11e9-99a1-d3cf1660b47e.png)
 
-Under the **Repository Name** heading, type: `username.github.io`, where username is your username on GitHub. Then click **Rename**—and that’s it. When you’re done, click your repository name or browser’s back button to return to this page.
+Under the **Repository Name** heading, type: `desallbarbie17.github.io`, where username is your username on GitHub. Then click **desallbarbie17**—and that’s it. When you’re done, click your repository name or browser’s back button to return to this page.
 
-<img width="1039" alt="rename_screenshot" src="https://user-images.githubusercontent.com/18093541/63129466-956cc580-bf85-11e9-92d8-b028dd483fa5.png">
+<img width="1039" alt="rename_screenshot" src="https://desallbarbie17-images.githubusercontent.com/18093541/63129466-956cc580-bf85-11e9-92d8-b028dd483fa5.png">
 
-Once you click **Rename**, your website will automatically be published at: https://your-username.github.io/. The HTML file—called `index.html`—is rendered as the home page and you'll be making changes to this file in the next step.
+Once you click **desallbarbie17**, your website will automatically be published at: https://desallbarbie17.github.io/. The HTML file—called `index.html`—is rendered as the home page and you'll be making changes to this file in the next step.
 
 Congratulations! You just launched your first GitHub Pages website. It's now live to share with the entire world
 
@@ -49,12 +49,12 @@ Want to edit the site you just published? Let’s practice commits by introducin
 Let’s start with this template:
 
 ```
-<p>Hello World! I’m [username]. This is my website!</p>
+<p>Hello World! I’m [desallbarbie17]. This is my website!</p>
 ```
 
 To add your introduction, copy our template and click the edit pencil icon at the top right hand corner of the `index.html` file.
 
-<img width="997" alt="edit-this-file" src="https://user-images.githubusercontent.com/18093541/63131820-0794d880-bf8d-11e9-8b3d-c096355e9389.png">
+<img width="997" alt="edit-this-file" src="https://desallbarbie17-images.githubusercontent.com/18093541/63131820-0794d880-bf8d-11e9-8b3d-c096355e9389.png">
 
 
 Delete this placeholder line:
@@ -65,13 +65,13 @@ Delete this placeholder line:
 
 Then, paste the template to line 15 and fill in the blanks.
 
-<img width="1032" alt="edit-githuboctocat-index" src="https://user-images.githubusercontent.com/18093541/63132339-c3a2d300-bf8e-11e9-8222-59c2702f6c42.png">
+<img width="1032" alt="edit-githuboctocat-index" src="https://desallbarbie17-images.githubusercontent.com/18093541/63132339-c3a2d300-bf8e-11e9-8222-59c2702f6c42.png">
 
 
 When you’re done, scroll down to the `Commit changes` section near the bottom of the edit page. Add a short message explaining your change, like "Add my introduction", then click `Commit changes`.
 
 
-<img width="1030" alt="add-my-username" src="https://user-images.githubusercontent.com/18093541/63131801-efbd5480-bf8c-11e9-9806-89273f027d16.png">
+<img width="1030" alt="add-my-username" src="https://desallbarbie17-images.githubusercontent.com/18093541/63131801-efbd5480-bf8c-11e9-9806-89273f027d16.png">
 
 Once you click `Commit changes`, your changes will automatically be published on your GitHub Pages website. Refresh the page to see your new changes live in action.
 
